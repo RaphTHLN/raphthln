@@ -5,4 +5,4 @@
 - 💻 I freelance as a graphic designer
   
 ### 📫 How to reach me:
-- Email: [tonmail@example.com](mailto:raphthln@proton.me)
+- Email: [raphthln@proton.me](mailto:raphthln@proton.me)
