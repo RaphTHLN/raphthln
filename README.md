@@ -8,3 +8,4 @@
   
 ### 📫 How to reach me:
 - Email: [raphthln@proton.me](mailto:raphthln@proton.me)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=raphthln)
