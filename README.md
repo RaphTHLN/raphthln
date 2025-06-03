@@ -1,14 +1,39 @@
-## Hi! I'm Raphaël 👋
+<h1 align="center">Salut, moi c’est Raphaël 👋</h1>
+<p align="center">
+  🎓 Lycéen passionné & créatif basé à La Seyne sur Mer (près de Toulon)<br>
+  🧑‍🎨 Graphiste freelance | 🎛️ Musicien & producteur | 🧑‍💻 UI/UX lover & développeur autodidacte<br>
+  👑 Admin de <a href="https://discord.gg/breakthecode">./breakthecode</a><br>
+</p>
 
-- 🌍 I’m based in La Seyne sur Mer, near Toulon.
-- 🎓 I’m currently a high school student passionate about development, UI/UX design, and music.
-- 💻 I freelance as a graphic designer.
-- 🧑‍💻 I'm also [**./breakthecode**](https://discord.gg/breakthecode) administrator
-### 📝 My Skills
-[![My Skills](https://skillicons.dev/icons?i=ableton,ae,blender,discord,figma,vscode,windows,xd,linux&theme=light)](https://skillicons.dev)
+---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=raphthln)
-### 📫 How to reach me:
-- Bento: [Bento.me/Aelth](https://bento.me/Aelth)
+### 🚀 À propos de moi
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1267917704778612747?animatedDecoration=true&showDisplayName=true&hideDecoration=false&hideSpotify=false&hideActivity=false&hideNameplate=false&bg=0&animated=true&hideDiscrim=false&hideBadges=true&hideTimestamp=false&theme=dark&showBanner=animated&bannerFilter=brightness(0.7)%20blur(5px)&waveColor=transparent&borderRadius=0&imgBorderRadius=0&gradient=ffffff&clanbg=0)](https://discord.com/users/1267917704778612747)
+- 🔭 Je travaille actuellement sur des projets graphiques & musicaux.
+- 🌱 J’apprends tous les jours en design, dev et audio — l'exploration c’est ma zone de confort.
+- 🎨 J'utilise Figma, Blender, Ableton, After Effects & plus pour donner vie à mes idées.
+- 🌐 Mon univers, c’est un mélange de code, d’ambiances visuelles et de vibes musicales.
+
+---
+
+### 🧠 Mes skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ae,blender,ableton,discord,linux,windows,xd,vscode&theme=light" alt="skills" />
+</p>
+
+---
+
+### 🌐 Me retrouver
+- 💬 Discord : [`@Aelth`](https://discord.com/users/1267917704778612747)
+<p align="center">
+  <a href="https://discord.com/users/1267917704778612747">
+    <img src="https://lanyard.kyrie25.dev/api/1267917704778612747?animatedDecoration=true&showDisplayName=true&hideDecoration=false&hideSpotify=false&hideActivity=false&hideNameplate=false&bg=0&animated=true&hideDiscrim=false&hideBadges=true&hideTimestamp=false&theme=dark&showBanner=animated&bannerFilter=brightness(0.7)%20blur(5px)&waveColor=transparent&borderRadius=0&imgBorderRadius=0&gradient=ffffff&clanbg=0" alt="Discord Presence" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raphthln&style=flat-square&color=blue" alt="Profile views" />
+</p>
