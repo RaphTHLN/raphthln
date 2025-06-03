@@ -9,10 +9,8 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets graphiques & musicaux.
-- 🌱 J’apprends tous les jours en design, dev et audio — l'exploration c’est ma zone de confort.
-- 🎨 J'utilise Figma, Blender, Ableton, After Effects & plus pour donner vie à mes idées.
-- 🌐 Mon univers, c’est un mélange de code, d’ambiances visuelles et de vibes musicales.
+- Je suis graphiste, beatmaker et dev (trés rarement ^^')
+- J'ai sorti un album ["AMONG THE STARS"](https://open.spotify.com/intl-fr/album/2eeRRLGNTaR3BpvyYzHUAC?si=5r9_gkKrSqqe6i6U0c7xoA)
 
 ---
 
