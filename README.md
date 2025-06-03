@@ -8,8 +8,6 @@
 ---
 
 ### 🚀 À propos de moi
-
-- Je suis graphiste, beatmaker et dev (trés rarement ^^')
 - J'ai sorti un album ["AMONG THE STARS"](https://open.spotify.com/intl-fr/album/2eeRRLGNTaR3BpvyYzHUAC?si=5r9_gkKrSqqe6i6U0c7xoA) disponible sur toutes les plateformes.
 
 ---
