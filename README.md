@@ -10,5 +10,5 @@
 ### 🧠 Mes skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,ae,blender,ableton,discord,linux,windows,xd,vscode&theme=light" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ableton,discordjs,electron,figma,github,gitlab,ai,notion,ts,xd" alt="skills" />
 </p>
