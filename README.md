@@ -1,14 +1,1 @@
-<h1 align="center">Salut, moi c’est Raphaël 👋</h1>
-<p align="center">
-  🎓 Lycéen passionné & créatif basé à La Seyne sur Mer (près de Toulon)<br>
-  🧑‍🎨 Graphiste freelance | 🎛️ Musicien & producteur | 🧑‍💻 UI/UX lover & développeur autodidacte<br>
-  👑 Admin de <a href="https://discord.gg/breakthecode">./breakthecode</a><br>
-</p>
-
----
-
-### 🧠 Mes skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ableton,discordjs,electron,figma,github,gitlab,ai,notion,ts,xd" alt="skills" />
-</p>
+<img src="https://github.com/RaphTHLN/raphthln/blob/main/0a0a5e1b7108a298197acf2ce4250ded.gif?raw=true" alt="banner" />
