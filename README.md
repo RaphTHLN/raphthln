@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/RaphTHLN/raphthln/blob/main/a31c769ab52be348d384c90c866316f8.gif?raw=true" width="100%" />
+  <img src="https://github.com/RaphTHLN/raphthln/blob/main/Capture%20d'%C3%A9cran%202026-11-21%20143400.png?raw=true" width="100%" />
 </p>
